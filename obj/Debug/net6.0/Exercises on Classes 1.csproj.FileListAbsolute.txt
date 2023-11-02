@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\Exercises on Classes 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\Exercises on Classes 1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\Exercises on Classes 1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\Exercises on Classes 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\bin\Debug\net6.0\Exercises on Classes 1.exe
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\bin\Debug\net6.0\Exercises on Classes 1.deps.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\bin\Debug\net6.0\Exercises on Classes 1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\bin\Debug\net6.0\Exercises on Classes 1.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\bin\Debug\net6.0\Exercises on Classes 1.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\Exercises on Classes 1.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\refint\Exercises on Classes 1.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\Exercises on Classes 1.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\Exercises on Classes 1.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Exercises on Classes 1\obj\Debug\net6.0\ref\Exercises on Classes 1.dll
